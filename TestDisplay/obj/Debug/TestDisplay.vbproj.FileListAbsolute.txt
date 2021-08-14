@@ -1,0 +1,8 @@
+D:\Apps\Web Test\TestDisplay\TestDisplay\bin\TestDisplay.dll
+D:\Apps\Web Test\TestDisplay\TestDisplay\bin\TestDisplay.pdb
+D:\Apps\Web Test\TestDisplay\TestDisplay\bin\TestDisplay.xml
+D:\Apps\Web Test\TestDisplay\TestDisplay\obj\Debug\TestDisplay.Resources.resources
+D:\Apps\Web Test\TestDisplay\TestDisplay\obj\Debug\TestDisplay.vbproj.GenerateResource.Cache
+D:\Apps\Web Test\TestDisplay\TestDisplay\obj\Debug\TestDisplay.dll
+D:\Apps\Web Test\TestDisplay\TestDisplay\obj\Debug\TestDisplay.xml
+D:\Apps\Web Test\TestDisplay\TestDisplay\obj\Debug\TestDisplay.pdb
